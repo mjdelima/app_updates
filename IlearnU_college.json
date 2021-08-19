@@ -1,10 +1,9 @@
 {
-  "latestVersion": "3.1.0",
-  "latestVersionCode": 3,
-  "url": "https://drive.google.com/drive/folders/1lmeYRetPab14EFFs-cZpbpR7QLzS_UBL?usp=sharing",
+  "latestVersion": "2.5.0",
+  "latestVersionCode": 2,
+  "url": "https://drive.google.com/drive/folders/1q_Fje0LaaJ1dk54k1yLef_aocP0JUyWB?usp=sharing",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "- Added update support",
+    "- Code Optimization"
   ]
 }

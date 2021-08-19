@@ -3,8 +3,8 @@
   "latestVersionCode": 3,
   "url": "https://drive.google.com/drive/folders/1lmeYRetPab14EFFs-cZpbpR7QLzS_UBL?usp=sharing",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "- Added Navigation Drawer",
+    "- Added update support",
+    "- Code Optimization"
   ]
 }
