@@ -3,8 +3,9 @@
   "latestVersionCode": 5,
   "url": "https://drive.google.com/drive/folders/1lmeYRetPab14EFFs-cZpbpR7QLzS_UBL?usp=sharing",
   "releaseNotes": [
-    "- Added Navigation Drawer",
-    "- Added update support",
+    "- Navigation Drawer Optimization",
+    "- Added Stay logged in feature",
+    "- Removed the ILearnU website header",
     "- Code Optimization"
   ]
 }
