@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.5.0",
-  "latestVersionCode": 3,
+  "latestVersion": "2.6.0",
+  "latestVersionCode": 4,
   "url": "https://drive.google.com/drive/folders/1q_Fje0LaaJ1dk54k1yLef_aocP0JUyWB?usp=sharing",
   "releaseNotes": [
-    "- Added update support",
-    "- Code Optimization"
+    "- Added Support for Youtube Videos",
+    "- Gradle upgrad to v7.0.1"
   ]
 }

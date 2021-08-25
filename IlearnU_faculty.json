@@ -1,11 +1,10 @@
 {
-  "latestVersion": "3.5.0",
-  "latestVersionCode": 5,
+  "latestVersion": "3.6.0",
+  "latestVersionCode": 6,
   "url": "https://drive.google.com/drive/folders/1lmeYRetPab14EFFs-cZpbpR7QLzS_UBL?usp=sharing",
   "releaseNotes": [
-    "- Navigation Drawer Optimization",
-    "- Added Stay logged in feature",
-    "- Removed the ILearnU website header",
-    "- Code Optimization"
+    "- Added Support for Youtube Videos",
+    "- Gradle upgrad to v7.0.1"
   ]
 }
+
