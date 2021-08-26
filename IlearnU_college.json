@@ -4,7 +4,7 @@
   "url": "https://drive.google.com/drive/folders/1q_Fje0LaaJ1dk54k1yLef_aocP0JUyWB?usp=sharing",
   "releaseNotes": [
     "- Added Progress bar support",
-    "- Added Navigation Drawer"
+    "- Added Navigation Drawer",
     "- Fixed the log-in loop when the user entered invalid credentials"
   ]
 }
