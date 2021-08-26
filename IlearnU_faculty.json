@@ -1,10 +1,10 @@
 {
-  "latestVersion": "3.6.0",
-  "latestVersionCode": 6,
+  "latestVersion": "3.8.0",
+  "latestVersionCode": 7,
   "url": "https://drive.google.com/drive/folders/1lmeYRetPab14EFFs-cZpbpR7QLzS_UBL?usp=sharing",
   "releaseNotes": [
-    "- Added Support for Youtube Videos",
-    "- Gradle upgrad to v7.0.1"
+    "- Added Progress bar support",
+    "- Fixed the log-in loop when the user entered invalid credentials"
   ]
 }
 
