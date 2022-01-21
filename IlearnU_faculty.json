@@ -1,10 +1,11 @@
 {
-  "latestVersion": "3.8.0",
-  "latestVersionCode": 7,
+  "latestVersion": "3.9.0",
+  "latestVersionCode": 9,
   "url": "https://drive.google.com/drive/folders/1lmeYRetPab14EFFs-cZpbpR7QLzS_UBL?usp=sharing",
   "releaseNotes": [
-    "- Added Progress bar support",
-    "- Fixed the log-in loop when the user entered invalid credentials"
+    "-Added redirection to external sites."
+    "-Added navigation items"
+
   ]
 }
 
