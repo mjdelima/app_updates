@@ -1,10 +1,10 @@
 {
-  "latestVersion": "4.0.0",
-  "latestVersionCode": 10,
+  "latestVersion": "4.5.0",
+  "latestVersionCode": 13,
   "url": "https://drive.google.com/drive/folders/1lmeYRetPab14EFFs-cZpbpR7QLzS_UBL?usp=sharing",
   "releaseNotes": [
-    "-Added redirection to external sites.",
-    "-Added navigation items"
+    "-Added quick relogin.",
+    "-Added Logs Navigation"
 
   ]
 }
