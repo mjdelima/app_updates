@@ -1,10 +1,12 @@
 {
-  "latestVersion": "4.5.0",
-  "latestVersionCode": 15,
-  "url": "https://drive.google.com/drive/folders/1lmeYRetPab14EFFs-cZpbpR7QLzS_UBL?usp=sharing",
+  "latestVersion": "4.8.0",
+  "latestVersionCode": 21,
+  "url": "https://play.google.com/store/apps/details?id=com.cardinalplayground.ilufaculty",
   "releaseNotes": [
-    "-Added quick relogin.",
-    "-Added Logs Navigation"
+    "-Updated the dependencies",
+    "-Implemented a new update method",
+    "-Fix bugs encountered on the saving of credentials"
+    
 
   ]
 }
